@@ -1,0 +1,187 @@
+﻿from_id,to_id,distance_km,road_name
+N121,N124,0.061,HITEC Cityâ€“Kondapur Main Road
+N121,N118,0.076,HITEC Cityâ€“Kondapur Main Road
+N121,N120,0.367,HITEC Cityâ€“Kukatpally Main Road
+N8,N24,0.213,Durgam Cheruvu Road
+N54,N55,0.012,100 Feet Road
+N54,N56,0.018,100 Feet Road
+N54,N43,0.41,100 Feet Road
+N54,N29,0.255,Unnamed Road
+N1,N17,0.792,Mindspace Madhapur road
+N52,N42,0.234,Unnamed Road
+N104,N98,0.065,HITEC Cityâ€“Kondapur Main Road
+N104,N91,0.081,HITEC City Road
+N104,N122,0.285,HITEC Cityâ€“Kondapur Main Road
+N111,N109,0.016,Unnamed Road
+N111,N112,0.118,100 Feet Road
+N111,N110,0.089,100 Feet Road
+N31,N22,0.158,Mindspace Madhapur Rd
+N31,N26,0.013,Unnamed Road
+N31,N32,0.029,Mindspace Madhapur Rd
+N96,N56,0.971,100 Feet Road
+N50,N53,0.259,Huda Techno Enclave road
+N50,N47,0.053,Unnamed Road
+N50,N48,0.015,Unnamed Road
+N16,N14,0.016,Unnamed Road
+N16,N15,0.045,Unnamed Road
+N16,N41,0.166,Unnamed Road
+N37,N23,0.165,Mindspace road
+N37,N44,0.082,Mindspace road
+N37,N4,0.368,Unnamed Road
+N93,N74,0.556,100 Feet Road
+N29,N11,0.399,Cyber Towers - Madhapur Main Road
+N29,N30,0.01,Cyber Towers - Madhapur Main Road
+N77,N84,0.412,HITEC City Road
+N77,N81,0.35,Deloitte driveway
+N77,N61,0.371,HITEC City Road
+N63,N38,0.597,Cyber Towers - Madhapur Main Road
+N63,N75,0.274,Cyber Towers - Madhapur Main Road
+N63,N71,0.37,Unnamed Road
+N79,N60,0.665,HITEC Cityâ€“Madhapur Road
+N79,N82,0.029,HITEC Cityâ€“Madhapur Road
+N79,N81,0.036,Unnamed Road
+N112,N115,0.264,100 Feet Road
+N112,N118,0.611,Ayyappa Society Underpass
+N69,N68,0.01,Huda Techno Enclave road
+N69,N70,0.015,Huda Techno Enclave road
+N69,N66,0.041,Unnamed Road
+N69,N78,0.158,Unnamed Road
+N15,N13,0.019,Unnamed Road
+N15,N27,0.1,Unnamed Road
+N27,N28,0.037,Unnamed Road
+N27,N34,0.029,Unnamed Road
+N128,N123,0.096,Unnamed Road
+N35,N39,0.018,Durgam Cheruvu Road
+N35,N9,0.686,Cyber Towers - Madhapur Main Road
+N35,N24,0.071,Durgam Cheruvu Road
+N35,N36,0.008,Cyber Towers - Madhapur Main Road
+N6,N41,0.382,Mindspace Underpass
+N51,N56,0.3,100 Feet Road
+N119,N130,0.294,HITEC Cityâ€“Kukatpally Main Road
+N119,N116,0.04,HITEC Cityâ€“Kukatpally Main Road
+N119,N115,0.042,Unnamed Road
+N2,N23,0.751,Mindspace Junction Flyover
+N118,N106,0.143,HITEC Cityâ€“Kondapur Main Road
+N89,N95,0.046,Cyber Towersâ€“Madhapur Main Road
+N89,N102,0.082,HITEC City Road
+N89,N75,0.602,Cyber Towers - Madhapur Main Road
+N74,N57,0.401,100 Feet Road
+N74,N76,0.28,Unnamed Road
+N86,N90,0.028,Unnamed Road
+N86,N88,0.02,HITEC City Road
+N86,N83,0.145,HITEC City Road
+N22,N18,0.019,Unnamed Road
+N22,N21,0.003,Unnamed Road
+N56,N57,0.011,100 Feet Road
+N72,N71,0.009,Madhapur Flyover Link
+N72,N107,0.709,Jai Hind Gandhi Road
+N72,N76,0.326,Madhapur Flyover Link
+N10,N23,0.202,Mindspace road
+N122,N124,0.023,Unnamed Road
+N122,N132,0.312,HITEC Cityâ€“Kondapur Main Road
+N133,N124,0.326,HITEC Cityâ€“Kondapur Main Road
+N131,N120,0.323,HITEC Cityâ€“Kukatpally Main Road
+N109,N113,0.449,100 Feet Road
+N109,N108,0.089,100 Feet Road
+N26,N18,0.156,Unnamed Road
+N26,N28,0.028,Unnamed Road
+N42,N25,0.192,Mindspace road
+N42,N45,0.042,Mindspace road
+N123,N129,0.6,Madhapur road
+N123,N127,0.296,Madhapur road
+N53,N49,0.072,Huda Techno Enclave road
+N53,N65,0.388,Huda Techno Enclave road
+N33,N30,0.126,Cyber Towers - Madhapur Main Road
+N33,N76,0.655,Ayyappa Society Main Road
+N33,N39,0.156,Cyber Towers - Madhapur Main Road
+N117,N114,0.026,Unnamed Road
+N117,N120,0.046,HITEC Cityâ€“Kukatpally Main Road
+N117,N116,0.032,Unnamed Road
+N134,N82,1.417,HITEC Cityâ€“Madhapur Road
+N87,N92,0.05,Cyber Towersâ€“Madhapur Main Road
+N87,N88,0.08,HITEC City Road
+N87,N78,0.526,Cyber Towers - Madhapur Main Road
+N5,N40,0.393,Mindspace Underpass
+N49,N62,0.642,Vittal Rao Nagar
+N49,N48,0.205,Huda Techno Enclave road
+N99,N106,0.065,Unnamed Road
+N99,N95,0.027,Unnamed Road
+N99,N105,0.059,Unnamed Road
+N99,N98,0.014,Unnamed Road
+N126,N84,0.684,HITEC City Flyover
+N76,N103,0.561,Ayyappa Society Main Road
+N103,N107,0.43,100 Feet Road
+N103,N100,0.151,100 Feet Road
+N88,N92,0.052,HITEC City Road
+N78,N73,0.073,Cyber Towers - Madhapur Main Road
+N47,N46,0.016,Unnamed Road
+N47,N21,0.191,Unnamed Road
+N101,N97,0.38,100 Feet Road
+N101,N110,0.589,100 Feet Road
+N101,N100,0.012,Unnamed Road
+N13,N14,0.05,Unnamed Road
+N13,N12,0.025,Unnamed Road
+N100,N94,0.345,100 Feet Road
+N57,N55,0.019,100 Feet Road
+N82,N81,0.031,Deloitte driveway
+N82,N80,0.009,Unnamed Road
+N7,N19,0.213,Mindspace Madhapur road
+N85,N80,0.343,HITEC Cityâ€“Madhapur Road
+N30,N55,0.256,Unnamed Road
+N41,N58,0.221,HITEC City Road
+N107,N108,0.008,100 Feet Road
+N70,N67,0.04,Cyber Towers - Madhapur Main Road
+N70,N73,0.076,Cyber Towers - Madhapur Main Road
+N114,N105,0.108,Unnamed Road
+N114,N113,0.031,Unnamed Road
+N73,N75,0.013,Unnamed Road
+N92,N95,0.015,Unnamed Road
+N92,N98,0.027,HITEC Cityâ€“Kondapur Main Road
+N32,N34,0.04,Mindspace Madhapur Rd
+N32,N28,0.016,Unnamed Road
+N60,N59,0.028,Unnamed Road
+N60,N61,0.037,Unnamed Road
+N108,N71,0.714,Jai Hind Gandhi Road
+N108,N110,0.016,Jai Hind Gandhi Road
+N83,N125,0.684,HITEC City Flyover
+N83,N40,1.042,HITEC City Road
+N84,N90,0.153,HITEC City Road
+N18,N17,0.01,Unnamed Road
+N102,N113,0.127,HITEC Cityâ€“Kukatpally Main Road
+N102,N95,0.058,HITEC Cityâ€“Kukatpally Main Road
+N65,N68,0.104,Huda Techno Enclave road
+N62,N64,0.09,Cyber Towers - Madhapur Main Road
+N62,N36,0.611,Cyber Towers - Madhapur Main Road
+N36,N24,0.068,Durgam Cheruvu Road
+N36,N38,0.017,Unnamed Road
+N61,N59,0.029,HITEC City Road
+N67,N66,0.015,Unnamed Road
+N67,N64,0.07,Cyber Towers - Madhapur Main Road
+N66,N64,0.083,Unnamed Road
+N34,N40,0.033,Unnamed Road
+N46,N48,0.008,Unnamed Road
+N46,N20,0.199,Unnamed Road
+N91,N98,0.049,HITEC City Road
+N91,N90,0.021,HITEC City Road
+N113,N116,0.027,HITEC Cityâ€“Kukatpally Main Road
+N59,N58,0.01,HITEC City Road
+N14,N25,0.196,Mindspace road
+N3,N25,0.755,Mindspace Junction Flyover
+N39,N38,0.008,Cyber Towers - Madhapur Main Road
+N106,N105,0.089,HITEC City Road
+N115,N116,0.051,100 Feet Road
+N58,N80,0.738,HITEC Cityâ€“Madhapur Road
+N17,N19,0.016,Unnamed Road
+N19,N20,0.003,Unnamed Road
+N20,N21,0.014,Unnamed Road
+N135,N81,0.136,Access road to Hospital #2053
+N136,N134,1.195,Access road to Hospital #2129
+N137,N134,0.605,Access road to Hospital #2130
+N138,N102,0.011,Access road to Hospital #2133
+N139,N85,0.75,Access road to Hospital #2167
+N140,N128,0.696,Access road to Hospital #2178
+N141,N128,0.865,Access road to Hospital #2179
+N142,N11,0.953,Access road to Hospital #2250
+N143,N7,0.039,Access road to Hospital #2263
+N144,N58,0.087,Access road to Hospital #2265
+N145,N134,0.45,Access road to Hospital #2294
