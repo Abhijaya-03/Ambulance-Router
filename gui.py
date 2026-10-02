@@ -64,8 +64,8 @@ div[data-testid="stSelectbox"] label {
 
 @st.cache_data
 def load_data():
-    places = load_places("data/places.csv")
-    roads = load_roads("data/roads.csv")
+    places = load_places("Data/places.csv")
+    roads = load_roads("Data/roads.csv")
     graph = build_graph(places, roads)
     hospitals = get_hospitals(places)
     return places, roads, graph, hospitals
