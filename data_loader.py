@@ -70,8 +70,8 @@ def build_heuristic(places, goal_id):
 
 # quick test
 if __name__ == "__main__":
-    places = load_places("data/places.csv")
-    roads = load_roads("data/roads.csv")
+    places = load_places("Data/places.csv")
+    roads = load_roads("Data/roads.csv")
     graph = build_graph(places, roads)
 
     print("Places loaded:", len(places))
